@@ -1,1 +1,1 @@
-print("yigit")
+print("yigit türk")
